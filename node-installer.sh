@@ -25,8 +25,8 @@ else
  sudo apt-get install -y nodejs
  echo "updating npm..."
  npm i -g npm
-#  echo "forcefully installing nodemon..."
-#  sudo npm install -g --force nodemon
+ echo "forcefully installing nodemon..."
+ sudo npm install -g --force nodemon
 fi
 
 
